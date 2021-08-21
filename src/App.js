@@ -5,7 +5,13 @@ const animalsDictionary = {
   "🐈": "Cat",
   "🐕": "Dog",
   "🐑": "Sheep",
-  "🐐": "Goat"
+  "🐐": "Goat",
+  "🐋": "Whale",
+  "🐟": "Fish",
+  "🦒": "Girraffe",
+  "🐭": "Mouse",
+  "🦍": "Gorilla",
+  "🐵": "Monkey"
 };
 
 var emojiweknow = Object.keys(animalsDictionary);
